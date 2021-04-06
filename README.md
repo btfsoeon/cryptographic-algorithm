@@ -1,1 +1,1 @@
-# crpyto-algorithms
+# cryptographic algorithm
